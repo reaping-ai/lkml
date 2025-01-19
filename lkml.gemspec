@@ -12,7 +12,7 @@ Gem::Specification.new do |s|
   s.summary     = 'LookML Ruby Parser'
   s.description = ''
   s.license     = 'MIT'
-  s.required_ruby_version = '>= 3.3'
+  s.required_ruby_version = '>= 3.2'
   s.files         = Dir['lib/**/*', '*.md']
   s.require_paths = %w[lib]
   s.metadata['rubygems_mfa_required'] = 'true'
